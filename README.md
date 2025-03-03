@@ -19,3 +19,4 @@
     - Age should be greater than 0.
     - Gender must be selected.
 
+("signin-empty.png")
