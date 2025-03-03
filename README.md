@@ -18,5 +18,3 @@
     - Phone number should be exactly 11 digits.
     - Age should be greater than 0.
     - Gender must be selected.
-
-(signin-empty.png)
