@@ -19,4 +19,4 @@
     - Age should be greater than 0.
     - Gender must be selected.
 
-(screenshots/signin-empty.png)
+(signin-empty.png)
